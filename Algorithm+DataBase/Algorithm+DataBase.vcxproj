@@ -123,7 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\01_.cpp" />
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\01_DFS_GridShortestPath.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\02_DFS_CheeseBeforeFriend.cpp" />
     <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\DFS_PathFinding.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>

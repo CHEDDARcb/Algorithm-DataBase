@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\02_Should_I_Find_Book.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\03_FindLastDataPosition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\04_WoundSizeCalculation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\05_FindingIntegerSquareRootWithBinarySearch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\06_BinarySearchFuelGauge.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\07_Heap-BasedAlphabetSorting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\08_MostExpensiveRoutes.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\NextPermutaion.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\DFS_PathFinding.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice1\09_MagicBagOfGold.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\01_DFS_PostorderTraversal.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\02_DFS_MinimumCostPath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\03_DFS_SumTo10WithNNumbers_Ver_OnlyDFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\03_DFS_SumTo10WithNNumbers_Ver_DFS+NextPermutation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\04_LongestEel.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\04_LongestEel_SimpleVer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\05_ForbiddenFoodFilter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\06_CardNumberPermutations.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\07_ClawPatternLetters.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\08_TimetoBurntheGrid.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\09_MaximumPipeProduct.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\09_MaximumPipeProduct_Ver_DP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\10_MinimumProductSelection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap&amp;BinarySearch&amp;DFS_PathFinding\Practice2\10_MinimumProductSelection_Ver_GPT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\MinimumSpanningTree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\01_.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

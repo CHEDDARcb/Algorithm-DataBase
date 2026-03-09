@@ -48,6 +48,7 @@ void DFS(int y, int x, int cost)
 			continue;
 
 		DFS(newY, newX, cost + 1);
+		visited[y][x] = false;
 	}
 }
 

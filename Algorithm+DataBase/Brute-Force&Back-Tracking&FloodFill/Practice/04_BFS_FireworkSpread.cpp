@@ -71,11 +71,6 @@ void BFS()
 
 int main(void)
 {
-	Input();
-
-	BFS();
-
-	cout << maxSc;
 
 	return 0;
 }

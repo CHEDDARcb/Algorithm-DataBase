@@ -99,7 +99,13 @@
     <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\03_DFS_ReachableChickens.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\04_DFS_FireworkSpread.cpp">
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\04_BFS_FireworkSpread.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\05_DFS_IslandSize.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\06_NearestDeliveryRoute.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

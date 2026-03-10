@@ -105,7 +105,34 @@
     <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\05_DFS_IslandSize.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\06_NearestDeliveryRoute.cpp">
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\06_BFS_NearestDeliveryRoute.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\07_BFS_VirusSpread.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\08_DFS_MazeShortestPath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\09_DFSNBFS_BinaryTreeDFSTraversal.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\10_DFS_PathExists.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\11_Hash_BigramJaccardSimilarity.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\11_Hash_BigramJaccardSimilarity_Ver2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\12_DFS_ThreeCardMax-Min.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\13_DFS_ShortestPathinGraph.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\13_BFS_ShortestPathinGraph.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

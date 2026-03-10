@@ -49,6 +49,8 @@ Pos BFS(int y, int x, char target)
 			pushed[newY][newX] = true;
 		}
 	}
+
+	return Pos{ -1, -1, -1 };
 }
 
 int main(void)

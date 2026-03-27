@@ -180,5 +180,50 @@
     <ClCompile Include="MST_Kruskal\Practice2\05_MinimumMeatFlippingPuzzle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\BFS_ParentTracking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Check_Bit0_Is_0_Or_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Check_Bit1_Is_0_Or_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Check_BitN_Is_0_Or_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Count_1Bit.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\01_FindTheBeehive.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\02_ChannelSwitching.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\03_NumberOfIslands.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\04_SeafoodPancakeCheck.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\05_ElsaAndAnna.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\06_TheCreationOfAdam.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\07_SlidingDoors.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\07_07_SlidingDoors_Ver_02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitwiseOperation&amp;BFS\Practice\07_SlidingDoors_Ver_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

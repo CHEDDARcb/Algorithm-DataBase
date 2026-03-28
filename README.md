@@ -8,10 +8,35 @@
 - C++23
 - Visual Studio
 
-# 학습내용
+# 학습내용 / 学習内容
 - Bit Masking
 - Direct Array
 - Hash Table
   - Direct Adressing Table
 - Recursive Function
-- 
+  - Path Tracking
+  - Pruning
+    - Prevention
+    - Early Return
+  - Tail Call
+- Linked List
+- Stack
+- Queue
+- Graph / Tree
+  - Adjacency Matrix
+- DFS
+- BFS
+- Permutation
+  - Next Permutation
+- Combitation
+- Binary Search Tree
+- Heap
+  - Priority Queue
+- Union Find
+- MST - KRUSKAL Algorithm
+- Sort
+  - Bubble
+  - Selection
+  - Insertion
+  - Merge
+  - Heap

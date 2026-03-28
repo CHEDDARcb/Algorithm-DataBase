@@ -4,5 +4,14 @@
 アルゴリズムとデータ楮を勉強した内容です。
 
 
-# 사용언어 / 使用言語
-- C++
+# 개밣환경 / 使用言語
+- C++23
+- Visual Studio
+
+# 학습내용
+- Bit Masking
+- Direct Array
+- Hash Table
+  - Direct Adressing Table
+- Recursive Function
+- 

@@ -26,12 +26,6 @@ int main(void)
 
 	int mx = max(dp[1], dp[2]);
 
-	if (houses.size() == 3)
-	{
-		cout << mx;
-		return 0;
-	}
-
 	for(int i = 3; i < houses.size(); ++i)
 	{
 		int prev2 = dp[i - 2];

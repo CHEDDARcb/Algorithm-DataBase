@@ -231,10 +231,7 @@
     <ClCompile Include="Dynamic Programming\DP_Knapsack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Dynamic Programming\Practice1\01_LinkedListReview.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Dynamic Programming\Practice1\01_LinkedListReview_Ver02.cpp">
+    <ClCompile Include="Dynamic Programming\Practice1\01_CopyALinkedListUsingAMemoryPool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Dynamic Programming\Practice1\02_LinkedListReview2.cpp">
@@ -322,6 +319,99 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Dynamic Programming\DP_CodingTest\04_HouseRobber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\QuickSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingSort\CountingSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\01_CountOccurrencesofAtoF.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\02_FindTheSpyByDuplicateName.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\03_TeamMemberLookupUsingHashChaining.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\04_TeamMemberLookupUsingUnordered_map.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\05_Count3-LetterSubstrings.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\06_Count2×2PatternsinaMatrix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\08_CheckIfANameIsGood.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice1\07_EmergencyMorsePatternDetectioncpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\01_CountingSortProcessOutput.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\02_SplitAStringByUnderscores.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\03_CountOccurrencesOfMCD.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\04_EmoticonCleanup.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\05_BannedWordReplacement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\06_ParseWordsAndNumbersInAMixedString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\07_CountValidURLsInAString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\08_StringValidityCheck.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort\Practice2\09_LongestCommonSubstring.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Dijkstra.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Dijkstra_PriorityQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\01_Dijkstra_CheapestAndMostExpensiveDestination.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\02_CopyALinkedListUsingAMemoryPool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\03_ReverseLinkedListSkipPrint.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\04_BuildAForwardLinkedList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\05_FindADinosaurByAgeUsingHashing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\06_StringHashingwithHorner%27sMethod.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\07_GroupMemberIDLookupwithChaining.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra\Practice\08_SpyCodeLookupUsing Hash.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AVLTree\소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Red-BlackTree\소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

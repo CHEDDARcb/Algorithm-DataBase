@@ -10,19 +10,17 @@
 
 # 학습내용 / 学習内容
 
-# Data Structure
-
+## Data Structure
+<details>
+<summary>제목</summary>
+  
 ## List
 
 [**동적할당, 링크드리스트 함수화 (Dynamic Allocation, Linked List Functions)**](https://www.notion.so/Dynamic-Allocation-Linked-List-Functions-3519a595a8f5806b913ef5eec1f0fd98?pvs=21) 
+내용입니다.
 
-‣ 
+</details>
 
-‣ 
-
-‣ 
-
-‣ 
 
 #### Stack
 

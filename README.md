@@ -9,6 +9,12 @@
 - Visual Studio
 
 # 학습내용 / 学習内容
+
+
+
+<details>
+<summary>클릭해서 펼치기</summary>
+
 - Bit Masking
 - Direct Array
 - Hash Table
@@ -40,3 +46,6 @@
   - Insertion
   - Merge
   - Heap
+
+
+</details>

@@ -18,32 +18,22 @@
 
 </details>
 
-
-#### Stack
-
-[**스택, 큐 (Stack, Queue)**](https://www.notion.so/Stack-Queue-3519a595a8f5806da748d1e8f6bbf33f?pvs=21) 
-
-‣ 
-
-‣ 
-
-‣ 
-
-‣ 
-
-#### Queue
+<details>
+<summary><h3>Stack</h3></summary>
 
 [**스택, 큐 (Stack, Queue)**](https://www.notion.so/Stack-Queue-3519a595a8f5806da748d1e8f6bbf33f?pvs=21) 
 
-‣ 
+</details>
 
-[Array Base Queue_Circular Queue](https://www.notion.so/Array-Base-Queue_Circular-Queue-1ff9a595a8f580f195bfda9f161bc31d?pvs=21) 
+<details>
+<summary><h3>Queue</h3></summary>
 
-‣ 
+[**스택, 큐 (Stack, Queue)**](https://www.notion.so/Stack-Queue-3519a595a8f5806da748d1e8f6bbf33f?pvs=21) 
 
-‣ 
+</details>
 
-#### Graph, Tree
+<details>
+<summary><h3>Graph, Tree</h3></summary>
 
 [**그래프, 트리 (Graph, Tree)**](https://www.notion.so/Graph-Tree-3519a595a8f58090b5a8f2312177b724?pvs=21) 
 
@@ -51,15 +41,24 @@
 
 [Binary Tree](https://www.notion.so/Binary-Tree-2029a595a8f58073be00f9f875aacc35?pvs=21) 
 
-#### Hash
+</details>
+
+<details>
+<summary><h3>Hash</h3></summary>
 
 [**Direct Addressing Table, Hash Table, 패턴 찾기 (DAT/Hash, Pattern Search)**](https://www.notion.so/Direct-Addressing-Table-Hash-Table-DAT-Hash-Pattern-Search-3519a595a8f5809d87ccde5873867995?pvs=21) 
 
-#### Heap
+</details>
+
+<details>
+<summary><h3>Heap</h3></summary>
 
 [**최소/최대 힙, 이진 탐색 (Min/Max Heap, Binary Search)**](https://www.notion.so/Min-Max-Heap-Binary-Search-3519a595a8f58007bcc2c896b9aa79bb?pvs=21) 
 
 [Heap / Priority Queue](https://www.notion.so/Heap-Priority-Queue-2069a595a8f580c38c35ce07ca67f733?pvs=21) 
+
+</details>
+  
 
 # Algorithm
 

@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main(void)
+{
+	int num;
+
+	cin >> num;
+
+	for (int i = 0; i < num; ++i)
+	{
+		for (int j = 1; j <= 5; ++j)
+		{
+			cout << j << " ";
+		}
+
+		cout << endl;
+	}
+}

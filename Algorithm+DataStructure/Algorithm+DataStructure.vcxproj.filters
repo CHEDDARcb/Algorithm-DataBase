@@ -408,10 +408,22 @@
     <ClCompile Include="Dijkstra\Practice\08_SpyCodeLookupUsing Hash.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="AVLTree\소스.cpp">
+    <ClCompile Include="AVLTree\AVLTree.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Red-BlackTree\소스.cpp">
+    <ClCompile Include="Red-BlackTree\Red-BlackTree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01.ASCII&amp;NestedForLoop\Practice1\01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02.2DArray&amp;ModuloOperator&amp;Counting\Practice1\01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.RecursiveFunctionSearchOrder\N-Queen.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25.CodingTestPreparationProblems(Arrays)\Practice\10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
